@@ -1,5 +1,10 @@
-# Google Slides
-https://drive.google.com/file/d/1Slcp48-SvsXXxOullTy5axomL-ArCx3F/view?usp=sharing
+# NLP Deployment for AI Space
+
+## Google Slides
+
+
+NYP - https://drive.google.com/file/d/1Slcp48-SvsXXxOullTy5axomL-ArCx3F/view?usp=sharing
+
 
 ## Installing
 
@@ -34,4 +39,3 @@ To be added.
 - https://coschedule.com/marketing-terms-definitions/what-is-clickbait
 - https://www.google.com/search?q=You%27ll+Never+Believe+This&rlz=1C5CHFA_enSG977SG977&tbm=nws&sxsrf=ALiCzsZ2P7lCHxz4cg5kj5JSBdnCiWVcmA:1664853249859&ei=AaU7Y-uONLCu3LUPsq-C2A8&start=10&sa=N&ved=2ahUKEwirk77UzcX6AhUwF7cAHbKXAPsQ8tMDegQIARA7&biw=1440&bih=719&dpr=1
 -> Forbes - Know Yourself So You Know Whom To Hire
-
