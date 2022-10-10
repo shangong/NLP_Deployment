@@ -8,29 +8,33 @@ NYP - https://drive.google.com/file/d/1Slcp48-SvsXXxOullTy5axomL-ArCx3F/view?usp
 
 ## Installing
 
-'''python
-virtualenv venv
-source venv/bin/activate
-pip3 -r requirements.txt
-'''
-
-### Dependency of Installation
-
 - Install _pip_ first - `sudo apt-get install python3-pip`
 - Then install _virtualenv_ using _pip3_ - `sudo pip3 install virtualenv`
-- Now create a virtual environment - `virtualenv <name e.g. .venv>` 
+- Now create a virtual environment - `virtualenv <name e.g. .venv>`
+- Activate the virtual environment - `source venv/bin/activate`
+- Install the dependency libraries needed - `pip3 -r requirements.txt`
+
 
 ## Start service
 
 ### Training
 
-Could use the [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/) with `notes.ipynb`.
+Could use the [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/) with `worksheets.ipynb`.
 
 ### Flask App
 
-`python -m flask run`
+After running `worksheets.ipynb` and creation if the `.pkl` file, start Flask with `python -m flask run`.
 
-### Deployment on Heruku
+
+## Deployment on Heroku
+
+We will be using [Heroku](https://www.heroku.com) to 
+
+Tutorial - (https://devcenter.heroku.com/articles/heroku-cli)
+
+https://geekyhumans.com/how-to-deploy-flask-api-on-heroku/#Install-The-Heroku-CLI
+
+### Registering a heroku
 
 To be added.
 
