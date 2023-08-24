@@ -32,7 +32,13 @@ We will be using [Heroku](https://www.heroku.com) to
 
 Tutorial - (https://devcenter.heroku.com/articles/heroku-cli)
 
-https://geekyhumans.com/how-to-deploy-flask-api-on-heroku/#Install-The-Heroku-CLI
+- Create a Keroku project - https://dashboard.heroku.com/apps/murmuring-gorge-95667/deploy/github
+- Deploy into project - https://geekyhumans.com/how-to-deploy-flask-api-on-heroku
+- dsa
+- Mine - https://murmuring-gorge-95667.herokuapp.com/
+
+Heroku Dashboard - https://dashboard.heroku.com/apps
+How to use Heroku CLI - https://devcenter.heroku.com/articles/heroku-cli
 
 ### Registering a heroku
 

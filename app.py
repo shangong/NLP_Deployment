@@ -4,6 +4,10 @@ import requests
 
 
 app = Flask(__name__)
+app.config['TESTING'] = True
+app.config['DEBUG'] = True
+app.config['TEMPLATES_AUTO_RELOAD'] = True
+
 
 saved_model = open("model.pkl", "rb")
 saved_vect = open("vect.pkl", "rb")
