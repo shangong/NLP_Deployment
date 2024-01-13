@@ -51,6 +51,5 @@ def sentiment():
         neg = predSentimentAns[0]["score"]
     return render_template("sentiment.html", posAns=pos, negAns=neg)
 
-
 if __name__ == "__main__":
     app.run(debug=True)
